@@ -1,0 +1,8 @@
+$NUM_ENTRIES = 6
+$BUILD_ID = PatchingKey
+pakchunk2000-Windows.ucas	1104	ver01	2000	/PGD/pakchunk2000-Windows.ucas
+pakchunk2001-Windows.ucas	10768	ver01	2001	/PGD/pakchunk2001-Windows.ucas
+pakchunk2000-Windows.utoc	544	ver01	2000	/PGD/pakchunk2000-Windows.utoc
+pakchunk2001-Windows.utoc	704	ver01	2001	/PGD/pakchunk2001-Windows.utoc
+pakchunk2000-Windows.pak	339	ver01	2000	/PGD/pakchunk2000-Windows.pak
+pakchunk2001-Windows.pak	339	ver01	2001	/PGD/pakchunk2001-Windows.pak
